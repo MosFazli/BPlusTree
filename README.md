@@ -51,10 +51,11 @@ Documantation
 •	این برنامه با استفاده از برنامه Clion از سری JetBrains کدنویسی شده است.
 
 Test case 1 result:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/69136464/175607384-1a60db99-3119-4363-8da3-4f13b37ae8fd.png)
 
 Test case 2 result:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/69136464/175607403-5f84eb36-b5c0-49ba-bc63-7fb5813aefbf.png)
 
 Test case 3 result:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/69136464/175607433-f65bad9a-2206-4cb9-a297-a853557a6261.png)
+
