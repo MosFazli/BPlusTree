@@ -49,3 +49,12 @@ Documantation
 فایل هایی متنی در پوشه testcases با نام های testcase1.txt … ایجاد شده اند که شما می توانید با استفاده از آن‌ها، طریقه مقدار دهی به برنامه را بررسی کرده و صحت عملکرد برنامه را مورد آزمایش قرار دهید.
 
 •	این برنامه با استفاده از برنامه Clion از سری JetBrains کدنویسی شده است.
+
+Test case 1 result:
+![Uploading image.png…]()
+
+Test case 2 result:
+![Uploading image.png…]()
+
+Test case 3 result:
+![Uploading image.png…]()
