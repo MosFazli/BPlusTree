@@ -5,9 +5,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/BPlusTree.dir/BPlusTree.cpp.obj"
   "CMakeFiles/BPlusTree.dir/delete.cpp.obj"
   "CMakeFiles/BPlusTree.dir/display.cpp.obj"
+  "CMakeFiles/BPlusTree.dir/functions.cpp.obj"
   "CMakeFiles/BPlusTree.dir/insert.cpp.obj"
   "CMakeFiles/BPlusTree.dir/search.cpp.obj"
-  "CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj"
   "libBPlusTree.dll.a"
 )
 

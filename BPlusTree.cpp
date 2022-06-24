@@ -1,4 +1,12 @@
-﻿// include c++ libraries
+﻿/*
+
+ B+ Tree visualization
+ This app programmed by MosFazli(Mostafa Fazli) for IDB Semester 4002 of Shahroud university of technology
+ Master: Dr. Hossein Morsehdlou
+
+*/
+
+// include c++ libraries
 #include <iostream>
 #include <vector>
 

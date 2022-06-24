@@ -223,6 +223,33 @@ display.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BPlusTree.dir\build.make CMakeFiles/BPlusTree.dir/display.cpp.s
 .PHONY : display.cpp.s
 
+functions.obj: functions.cpp.obj
+
+.PHONY : functions.obj
+
+# target to build an object file
+functions.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BPlusTree.dir\build.make CMakeFiles/BPlusTree.dir/functions.cpp.obj
+.PHONY : functions.cpp.obj
+
+functions.i: functions.cpp.i
+
+.PHONY : functions.i
+
+# target to preprocess a source file
+functions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BPlusTree.dir\build.make CMakeFiles/BPlusTree.dir/functions.cpp.i
+.PHONY : functions.cpp.i
+
+functions.s: functions.cpp.s
+
+.PHONY : functions.s
+
+# target to generate assembly for a file
+functions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BPlusTree.dir\build.make CMakeFiles/BPlusTree.dir/functions.cpp.s
+.PHONY : functions.cpp.s
+
 insert.obj: insert.cpp.obj
 
 .PHONY : insert.obj
@@ -277,33 +304,6 @@ search.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BPlusTree.dir\build.make CMakeFiles/BPlusTree.dir/search.cpp.s
 .PHONY : search.cpp.s
 
-utilFunc.obj: utilFunc.cpp.obj
-
-.PHONY : utilFunc.obj
-
-# target to build an object file
-utilFunc.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BPlusTree.dir\build.make CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj
-.PHONY : utilFunc.cpp.obj
-
-utilFunc.i: utilFunc.cpp.i
-
-.PHONY : utilFunc.i
-
-# target to preprocess a source file
-utilFunc.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BPlusTree.dir\build.make CMakeFiles/BPlusTree.dir/utilFunc.cpp.i
-.PHONY : utilFunc.cpp.i
-
-utilFunc.s: utilFunc.cpp.s
-
-.PHONY : utilFunc.s
-
-# target to generate assembly for a file
-utilFunc.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BPlusTree.dir\build.make CMakeFiles/BPlusTree.dir/utilFunc.cpp.s
-.PHONY : utilFunc.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -322,15 +322,15 @@ help:
 	@echo ... display.obj
 	@echo ... display.i
 	@echo ... display.s
+	@echo ... functions.obj
+	@echo ... functions.i
+	@echo ... functions.s
 	@echo ... insert.obj
 	@echo ... insert.i
 	@echo ... insert.s
 	@echo ... search.obj
 	@echo ... search.i
 	@echo ... search.s
-	@echo ... utilFunc.obj
-	@echo ... utilFunc.i
-	@echo ... utilFunc.s
 .PHONY : help
 
 

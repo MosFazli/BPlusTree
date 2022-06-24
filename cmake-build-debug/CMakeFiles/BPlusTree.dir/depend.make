@@ -10,12 +10,12 @@ CMakeFiles/BPlusTree.dir/delete.cpp.obj: ../delete.cpp
 CMakeFiles/BPlusTree.dir/display.cpp.obj: ../BPlusTree.h
 CMakeFiles/BPlusTree.dir/display.cpp.obj: ../display.cpp
 
+CMakeFiles/BPlusTree.dir/functions.cpp.obj: ../BPlusTree.h
+CMakeFiles/BPlusTree.dir/functions.cpp.obj: ../functions.cpp
+
 CMakeFiles/BPlusTree.dir/insert.cpp.obj: ../BPlusTree.h
 CMakeFiles/BPlusTree.dir/insert.cpp.obj: ../insert.cpp
 
 CMakeFiles/BPlusTree.dir/search.cpp.obj: ../BPlusTree.h
 CMakeFiles/BPlusTree.dir/search.cpp.obj: ../search.cpp
-
-CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj: ../BPlusTree.h
-CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj: ../utilFunc.cpp
 

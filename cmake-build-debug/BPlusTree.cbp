@@ -96,13 +96,13 @@
 		<Unit filename="E:/GitHub/BPlusTree/display.cpp">
 			<Option target="BPlusTree"/>
 		</Unit>
+		<Unit filename="E:/GitHub/BPlusTree/functions.cpp">
+			<Option target="BPlusTree"/>
+		</Unit>
 		<Unit filename="E:/GitHub/BPlusTree/insert.cpp">
 			<Option target="BPlusTree"/>
 		</Unit>
 		<Unit filename="E:/GitHub/BPlusTree/search.cpp">
-			<Option target="BPlusTree"/>
-		</Unit>
-		<Unit filename="E:/GitHub/BPlusTree/utilFunc.cpp">
 			<Option target="BPlusTree"/>
 		</Unit>
 		<Unit filename="E:/GitHub/BPlusTree/CMakeLists.txt">

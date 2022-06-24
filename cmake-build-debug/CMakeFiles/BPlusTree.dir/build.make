@@ -146,19 +146,19 @@ CMakeFiles/BPlusTree.dir/search.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BPlusTree.dir/search.cpp.s"
 	E:\Programs\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitHub\BPlusTree\search.cpp -o CMakeFiles\BPlusTree.dir\search.cpp.s
 
-CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj: CMakeFiles/BPlusTree.dir/flags.make
-CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj: CMakeFiles/BPlusTree.dir/includes_CXX.rsp
-CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj: ../utilFunc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GitHub\BPlusTree\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj"
-	E:\Programs\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BPlusTree.dir\utilFunc.cpp.obj -c E:\GitHub\BPlusTree\utilFunc.cpp
+CMakeFiles/BPlusTree.dir/functions.cpp.obj: CMakeFiles/BPlusTree.dir/flags.make
+CMakeFiles/BPlusTree.dir/functions.cpp.obj: CMakeFiles/BPlusTree.dir/includes_CXX.rsp
+CMakeFiles/BPlusTree.dir/functions.cpp.obj: ../functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\GitHub\BPlusTree\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/BPlusTree.dir/functions.cpp.obj"
+	E:\Programs\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BPlusTree.dir\functions.cpp.obj -c E:\GitHub\BPlusTree\functions.cpp
 
-CMakeFiles/BPlusTree.dir/utilFunc.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BPlusTree.dir/utilFunc.cpp.i"
-	E:\Programs\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GitHub\BPlusTree\utilFunc.cpp > CMakeFiles\BPlusTree.dir\utilFunc.cpp.i
+CMakeFiles/BPlusTree.dir/functions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BPlusTree.dir/functions.cpp.i"
+	E:\Programs\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\GitHub\BPlusTree\functions.cpp > CMakeFiles\BPlusTree.dir\functions.cpp.i
 
-CMakeFiles/BPlusTree.dir/utilFunc.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BPlusTree.dir/utilFunc.cpp.s"
-	E:\Programs\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitHub\BPlusTree\utilFunc.cpp -o CMakeFiles\BPlusTree.dir\utilFunc.cpp.s
+CMakeFiles/BPlusTree.dir/functions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BPlusTree.dir/functions.cpp.s"
+	E:\Programs\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\GitHub\BPlusTree\functions.cpp -o CMakeFiles\BPlusTree.dir\functions.cpp.s
 
 # Object files for target BPlusTree
 BPlusTree_OBJECTS = \
@@ -167,7 +167,7 @@ BPlusTree_OBJECTS = \
 "CMakeFiles/BPlusTree.dir/insert.cpp.obj" \
 "CMakeFiles/BPlusTree.dir/delete.cpp.obj" \
 "CMakeFiles/BPlusTree.dir/search.cpp.obj" \
-"CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj"
+"CMakeFiles/BPlusTree.dir/functions.cpp.obj"
 
 # External object files for target BPlusTree
 BPlusTree_EXTERNAL_OBJECTS =
@@ -177,7 +177,7 @@ BPlusTree.exe: CMakeFiles/BPlusTree.dir/display.cpp.obj
 BPlusTree.exe: CMakeFiles/BPlusTree.dir/insert.cpp.obj
 BPlusTree.exe: CMakeFiles/BPlusTree.dir/delete.cpp.obj
 BPlusTree.exe: CMakeFiles/BPlusTree.dir/search.cpp.obj
-BPlusTree.exe: CMakeFiles/BPlusTree.dir/utilFunc.cpp.obj
+BPlusTree.exe: CMakeFiles/BPlusTree.dir/functions.cpp.obj
 BPlusTree.exe: CMakeFiles/BPlusTree.dir/build.make
 BPlusTree.exe: CMakeFiles/BPlusTree.dir/linklibs.rsp
 BPlusTree.exe: CMakeFiles/BPlusTree.dir/objects1.rsp
